@@ -1,0 +1,15 @@
+/* selector de elemento/etiqueta/tag */
+h1 {
+
+    color: blueviolet;
+}
+
+/* selector de clase */
+.hola{
+    color: blue;
+}
+
+/* selector de id */
+#abcd{
+    color: crimson;
+}
